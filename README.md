@@ -37,3 +37,5 @@ Developed between **March 16, 2025** and **March 19, 2025**.
    ```bash
    git clone (https://github.com/jsgnld/synced-lyric-player.git)
    ```
+## 🎥 Demonstration
+https://github.com/user-attachments/assets/dc8f86c3-68c3-4fd8-8262-5652f2aeb9e8
