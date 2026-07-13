@@ -35,5 +35,5 @@ Developed between **March 16, 2025** and **March 19, 2025**.
 1. **Clone the Repository:**
    Open your terminal and run:
    ```bash
-   git clone [https://github.com/jsgnld/synced-lyric-player.git](https://github.com/jsgnld/synced-lyric-player.git)
+   git clone (https://github.com/jsgnld/synced-lyric-player.git)
    ```
